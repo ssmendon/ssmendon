@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! 👋🏾
+
+[Check out my LinkedIn](https://www.linkedin.com/in/smendon/), I'm looking for a new role!
+
+I'm @ssmendon. Cybersecurity is my major interest. 
+
 
 <!--
 **ssmendon/ssmendon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
